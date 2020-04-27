@@ -1,3 +1,5 @@
+![queus](Queues.PNG)
+
 # Multi_Level_Queue
 #### Three queues:
 
